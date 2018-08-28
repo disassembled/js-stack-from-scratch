@@ -8,5 +8,8 @@
   ],
   "rules": {
     "linebreak-style": [2, "windows"]
+  },
+  "env": {
+    "jest": true
   }
 }

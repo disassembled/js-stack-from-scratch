@@ -1,4 +1,4 @@
-// @flow
+// @flowOFF
 
 import 'babel-polyfill';
 

@@ -6,6 +6,9 @@
   "plugins": [
     "flowtype"
   ],
+  "settings": {
+    "polyfills": ["fetch"]
+  },
   "rules": {
     "linebreak-style": [2, "windows"]
   },
